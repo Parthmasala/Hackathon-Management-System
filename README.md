@@ -1,12 +1,6 @@
 # Hackathon-Management-System
 Implemented Database Management Concepts
 
-------Done By-------
-
-Masalawala Parth
-
-Patel Tirth
-
 ############## Instructions #################
 
 Save the files as already given in the repo.
